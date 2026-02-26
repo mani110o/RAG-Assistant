@@ -1,0 +1,269 @@
+[
+  {
+    "id": "1",
+    "title": "Leave Policy",
+    "content": "Employees are entitled to 20 paid leave days per year. Leave requests must be submitted through the HR portal at least 3 days in advance.",
+    "vector": [
+      {
+        "term": "leave",
+        "tfidf": 3.83258146374831
+      },
+      {
+        "term": "days",
+        "tfidf": 2.4462871026284194
+      },
+      {
+        "term": "20",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "entitled",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "paid",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "year",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "requests",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "submitted",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "hr",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "portal",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "least",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "advance",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "employees",
+        "tfidf": 1.5108256237659907
+      },
+      {
+        "term": "per",
+        "tfidf": 1.5108256237659907
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Password Reset",
+    "content": "Users can reset their password from Settings > Security > Reset Password. A verification email will be sent to confirm the request.",
+    "vector": [
+      {
+        "term": "reset",
+        "tfidf": 3.83258146374831
+      },
+      {
+        "term": "password",
+        "tfidf": 3.83258146374831
+      },
+      {
+        "term": "users",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "settings",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "security",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "verification",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "email",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "will",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "sent",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "confirm",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "request",
+        "tfidf": 1.5108256237659907
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Work From Home Policy",
+    "content": "Employees are allowed to work from home up to 2 days per week with prior approval from their reporting manager.",
+    "vector": [
+      {
+        "term": "allowed",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "work",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "home",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "week",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "prior",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "approval",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "reporting",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "manager",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "employees",
+        "tfidf": 1.5108256237659907
+      },
+      {
+        "term": "per",
+        "tfidf": 1.5108256237659907
+      },
+      {
+        "term": "days",
+        "tfidf": 1.2231435513142097
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Refund Policy",
+    "content": "Customers may request a full refund within 30 days of purchase if the product remains unused and in original condition.",
+    "vector": [
+      {
+        "term": "30",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "customers",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "may",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "full",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "refund",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "within",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "purchase",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "product",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "remains",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "unused",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "original",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "condition",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "request",
+        "tfidf": 1.5108256237659907
+      },
+      {
+        "term": "days",
+        "tfidf": 1.2231435513142097
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Office Timings",
+    "content": "Standard office working hours are from 9:00 AM to 6:00 PM, Monday through Friday.",
+    "vector": [
+      {
+        "term": "00",
+        "tfidf": 3.83258146374831
+      },
+      {
+        "term": "standard",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "office",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "working",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "hours",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "pm",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "monday",
+        "tfidf": 1.916290731874155
+      },
+      {
+        "term": "friday",
+        "tfidf": 1.916290731874155
+      }
+    ]
+  }
+]
