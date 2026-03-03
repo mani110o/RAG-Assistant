@@ -182,21 +182,6 @@ Add token usage logging
 
 Dockerize for production deployment
 
-🧠 Interview Summary
-
-This project demonstrates:
-
-Strong understanding of RAG architecture
-
-Vector similarity implementation
-
-Backend API development
-
-Frontend integration
-
-Hallucination mitigation strategies
-
-End-to-end system design
 
 📌 Conclusion
 
